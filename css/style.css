@@ -1,0 +1,25 @@
+.main{
+    width: 800px;
+    margin: auto;
+    border: 1px solid #000;
+ }
+.frontend, .backend{
+    width: 100%;
+    text-align: center;
+    line-height: 50px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color:#AFF8B4;
+}
+.frontinner, .backinner{
+    width: 100%;
+    border: 1px solid #000;
+    overflow: hidden;
+    background-color:rgb(105, 230, 114);
+}
+.hide{
+    height: 0;
+}
+.show{
+    height: auto;
+}
